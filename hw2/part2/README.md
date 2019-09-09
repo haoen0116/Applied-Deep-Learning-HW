@@ -5,7 +5,7 @@ The task about homework 2 is to use the Language Sequence Classification to clas
 In this homework, we have to use the BERT language model to let the model know the content of the sentence, 
 and use this model to predict the news topic of that sentence.
 
-##How to run :
+## How to run :
 The env is in Python 3.7.2
 
 Please install the requirements:
