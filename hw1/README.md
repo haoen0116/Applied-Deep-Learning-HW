@@ -3,7 +3,7 @@ This is the homework about the course of the Applied Deep Learning in National T
 
 The task about homework 1 is to use the basic RNN model to choose the possible next sentence by given sentence.
 
-##How to run :
+## How to run :
 First, please download the necessary file by the command:
 
     bash download.sh
