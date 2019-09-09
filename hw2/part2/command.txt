@@ -1,0 +1,1 @@
+python run_predict.py --testing_file test.csv --predict_file BERT_predict.csv

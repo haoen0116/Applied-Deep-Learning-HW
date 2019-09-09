@@ -1,0 +1,13 @@
+boto3
+regex
+spacy
+scipy
+numpy
+ipdb
+tqdm
+pyyaml
+scikit-learn
+python-box
+sklearn
+
+
