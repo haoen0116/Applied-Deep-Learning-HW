@@ -1,0 +1,2 @@
+python cgan.py --label_dir ../sample_test/sample_fid_testing_labels.txt --output_dir ./results/fid
+python cgan.py --label_dir ../sample_test/sample_human_testing_labels.txt --output_dir ./results/human
