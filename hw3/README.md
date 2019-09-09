@@ -5,7 +5,7 @@ The task about homework 3 is to use the Reinforcement Learning (RL) model to pla
 In this homework, we have to use the game environment in GYM to train our model, 
 and let model can play the game by itself. And the games are [LunarLander] and [AssaultNoFrameskip].
 
-##How to run :
+## How to run :
 Training policy gradient in [LunarLander] game:
 
     python3.6 main.py --train_pg
